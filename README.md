@@ -1,7 +1,7 @@
 # Boilerplate Mod for Fabric
 
 <p align="center">
-  <img src="[https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/icon.png?raw=true](https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/src/main/resources/assets/boilerplatemod/icon.png)" alt="Mod Icon">
+  <img src="https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/src/main/resources/assets/boilerplatemod/icon.png" alt="Mod Icon" style="width:25%;">
 </p>
 
 Welcome to my Boilerplate! This repository provides a modular and extensible template for developing Fabric mods. It is designed with client-side features in mind and includes:
