@@ -2,6 +2,20 @@
 
 Welcome to my Boilerplate! This repository provides a modular and extensible template for developing Fabric mods. It is designed with client-side features in mind and includes:
 
+## Note From UpFault
+
+Hey there! Before you read any further, I wanted to add a few things. This is my personal template that I use for my own mods. It's by no means perfect, but it does what I need it to.
+
+I recently created this template and decided to make it public for others to use, as I couldn’t find any good templates that included many of the features I have added. Feel free to fork the repo and send a pull request with improvements, or open an issue to request features—you can help keep this template up-to-date. The main reason I created this was to make developing mods for Hypixel a little easier. I’m relatively new to modding since I originally started as a plugin developer, and I’ve contributed to projects on this account as well as on my old GitHub account (for example, [Skyblocker](https://github.com/SkyblockerMod/Skyblocker)), because I love Skyblock and believe that creating client-side features for it offers endless customization opportunities.
+
+Some key features I’d like to eventually add include multi-version support and a truly personalized configuration screen (instead of relying solely on an API like Cloth-Config). I do prefer YACL for its rich features, even though its documentation is limited. Feel free to reach out to me on Discord—my username is upfault.lol. Much love, and I hope this template helps new modders get started!
+
+---
+
+**TL;DR:**  
+This is a personal mod template designed to simplify client-side mod development for Hypixel. It includes features like a custom configuration screen, key binding management, update checking, and various utility classes. While not perfect, it’s open-source, actively maintained, and open to contributions. Happy modding!
+
+
 ## Features
 
 - **Configuration System:**
