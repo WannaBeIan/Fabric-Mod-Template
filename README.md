@@ -40,6 +40,20 @@ This is a personal mod template designed to simplify client-side mod development
     - *Chroma Per Letter:* Applies an individual rainbow effect to each character.
   - **TimeUtils:** Simple time formatting from milliseconds.
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/LICENSE).
+
+## Dependencies and Compatibility
+
+- **Compatible with:**
+    - **ModMenu:** Provides an in-game configuration menu interface.  
+      [ModMenu on Modrinth](https://modrinth.com/mod/modmenu/versions)
+
+- **Requires:**
+    - **Cloth Config:** Used for creating the configuration screen. (We're using Cloth Config for obvious reasons; it offers a lot features for building a customizable Config.)  
+      [Cloth Config on Modrinth](https://modrinth.com/mod/cloth-config)
+
 ## Setup Instructions
 
 1. **Fork or Clone the Repository:**
@@ -62,7 +76,3 @@ This is a personal mod template designed to simplify client-side mod development
    Use Gradle to build and run your mod:
    ```bash
    ./gradlew runClient
-   
-## License
-
-This project is licensed under the [MIT License](https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/LICENSE).
