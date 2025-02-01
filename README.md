@@ -44,7 +44,7 @@ Welcome to my Boilerplate! This repository provides a modular and extensible tem
    Use Gradle to build and run your mod:
    ```bash
    ./gradlew runClient
-
+   
 ## License
 
-LINK LICENSE.TXT
+This project is licensed under the [MIT License](https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/LICENSE).
