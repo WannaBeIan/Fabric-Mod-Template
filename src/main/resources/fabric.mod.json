@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "boilerplatemod",
+  "version": "${version}",
+  "name": "BoilerplateMod",
+  "description": "A modular boilerplate for Fabric mods with configuration, key bindings, update checking, and utility features.",
+  "authors": ["UpFault"],
+  "contributors": [],
+  "contact": {
+    "GitHub": "Your GitHub",
+    "Discord": "Your Discord Server"
+  },
+  "license": "MIT",
+  "icon": "assets/boilerplatemod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.upfault.boilerplatemod.client.BoilerplateModClient"
+    ],
+    "main": [
+      "com.upfault.boilerplatemod.BoilerplateMod"
+    ],
+    "modmenu": [
+      "com.upfault.boilerplatemod.compatibility.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "boilerplatemod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric": "*",
+    "minecraft": "1.21.4",
+    "cloth-config": ">=10.0.50"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "boilerplate.discord": "https://discord.gg/xxxxxxx",
+        "boilerplate.sources": "https://discord.gg/WannaBeIan"
+      },
+      "update_checker": true
+    }
+  }
+}

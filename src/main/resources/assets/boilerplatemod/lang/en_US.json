@@ -1,0 +1,16 @@
+{
+  "key.boilerplatemod.openConfig": "Open Config Screen",
+  "title.boilerplatemod.config": "Boilerplate Mod Configuration",
+  "category.boilerplatemod.general": "General Settings",
+  "category.boilerplatemod.advanced": "Advanced Settings",
+  "option.boilerplatemod.exampleOption": "Example Option",
+  "tooltip.boilerplatemod.exampleOption": "Toggle this option on or off.",
+  "option.boilerplatemod.exampleInt": "Example Integer",
+  "tooltip.boilerplatemod.exampleInt": "Set the integer value.",
+  "option.boilerplatemod.exampleString": "Example String",
+  "tooltip.boilerplatemod.exampleString": "Enter a string value.",
+  "option.boilerplatemod.advanced.exampleDouble": "Example Double",
+  "tooltip.boilerplatemod.advanced.exampleDouble": "Set the double value.",
+  "option.boilerplatemod.advanced.exampleEnum": "Example Enum",
+  "tooltip.boilerplatemod.advanced.exampleEnum": "Select an enum value."
+}
