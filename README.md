@@ -76,3 +76,6 @@ This project is licensed under the [MIT License](https://github.com/WannaBeIan/F
    Use Gradle to build and run your mod:
    ```bash
    ./gradlew runClient
+
+
+   ## **DO NOTE THERE MAY BE SOME BUGS OR ISSUES I WILL BE PUSHING CHANGES IN A FEW DAYS TO HOPEFULLY RESOLVE THESE**
