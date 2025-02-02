@@ -4,6 +4,9 @@
   <img src="https://github.com/WannaBeIan/Fabric-Mod-Template/blob/main/src/main/resources/assets/boilerplatemod/icon.png" alt="Mod Icon" style="width:25%;">
 </p>
 
+**DO NOTE THERE MAY BE SOME BUGS OR ISSUES I WILL BE PUSHING CHANGES IN A FEW DAYS TO HOPEFULLY RESOLVE THESE**
+
+
 Welcome to my Boilerplate! This repository provides a modular and extensible template for developing Fabric mods. It is designed with client-side features in mind and includes:
 
 ## Note From UpFault
@@ -77,5 +80,4 @@ This project is licensed under the [MIT License](https://github.com/WannaBeIan/F
    ```bash
    ./gradlew runClient
 
-
-   ## **DO NOTE THERE MAY BE SOME BUGS OR ISSUES I WILL BE PUSHING CHANGES IN A FEW DAYS TO HOPEFULLY RESOLVE THESE**
+   
